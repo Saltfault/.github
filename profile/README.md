@@ -31,13 +31,13 @@ Two people. No VC, no ads, no surveillance, no exit strategy. We're built to *la
 
 ### 🔒 Privacy & ownership by design
 
-Encryption and data-ownership are **architecture** here, not a policy page you're asked to trust. Your words live with you and the people you're actually talking to — not on someone else's computer, under someone else's rules, one acquisition away from becoming the product.
+Encryption and data-ownership are **built into how it works** here, not a policy page you're asked to trust. Your words live with you and the people you're actually talking to — not on someone else's computer, under someone else's rules, one acquisition away from becoming the product.
 
 ---
 
 ## 🐦 What we're building — Starling
 
-**Starling** is Discord's shape — servers, channels, voice, video, DMs — without the company that owns every server. Messages go peer-to-peer across a network we call *the murmuration*; communities run on servers that belong to whoever runs them; everything is end-to-end encrypted. It's the beliefs above, compiled.
+**Starling** is everything you'd expect from a group-chat platform — servers, channels, voice, video, DMs — without the company that owns every server. Messages go peer-to-peer across a network we call *the murmuration*; communities run on servers that belong to whoever runs them; everything is end-to-end encrypted. It's the beliefs above, compiled.
 
 | Repo | What it is | Status |
 |------|------------|--------|
